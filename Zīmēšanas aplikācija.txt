@@ -1,0 +1,7 @@
+Aplikācija paredzēta zīmēšanai un satur visus nepieciešamos rīkus, lai paveiktu darbu.
+
+Ekrāna kreisajā sānā 1/4 ekrāna aizņem vertikāla pelēka līnija uz kuras attēlotas ikonas ar zīmēšanas rīkiem. Zīmēšanas rīki rindojas no kreisās puses uz labo un ja sasniedz labo taisnstūra malu - tiek rindoti rindā zem tās.
+Ikonas ir tāda lieluma, lai vienai būdamai blakus otrai ietilptu 6 ikonas.
+
+Ikonas un to apraksts.
+1) Pelites indikatora ikona. Nospiežot uz tās lietotājam tiek dota iespēja atlasīt zīmēšanas objektus kas iepriekš atk
