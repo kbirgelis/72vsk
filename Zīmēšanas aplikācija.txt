@@ -1,7 +1,8 @@
 Aplikācija paredzēta zīmēšanai un satur visus nepieciešamos rīkus, lai paveiktu darbu.
 
-Ekrāna kreisajā sānā 1/4 ekrāna aizņem vertikāla pelēka līnija uz kuras attēlotas ikonas ar zīmēšanas rīkiem. Zīmēšanas rīki rindojas no kreisās puses uz labo un ja sasniedz labo taisnstūra malu - tiek rindoti rindā zem tās.
-Ikonas ir tāda lieluma, lai vienai būdamai blakus otrai ietilptu 6 ikonas.
+Ekrāna augšējā daļā 20% no ekrāna aizņem pelēks taisnstūris (platumā 100%), uz kura ir iespēja izvēlēties krāsu ar kuru tiks zīmēts. Krāsas attēlot ar kvadrātiņiem attiecīgajā krāsā. Pieejama arī dzēšgumijas poga ar kuras palīdzību var zīmēt ar fona krasu un dzēst to ko nepieciešams.
 
-Ikonas un to apraksts.
-1) Pelites indikatora ikona. Nospiežot uz tās lietotājam tiek dota iespēja atlasīt zīmēšanas objektus kas iepriekš atk
+Pa vidu ekrānam visu atlikušo aizņem Canva uz kuras ir iespējams zīmēt ar izvēlēto krāsu.
+
+Ekrāna apakšpusē ir iespēja izvēlēties zīmēšanas lielumu ar slider opciju. Blakus tam ir poga dzēst ar kuras palīdzību var dzēst visu kas tika uzzīmēts. Viss attēlots uz vēl viena pelēka taisnstūra, kurš ir 10% augsts un 100% plats.
+
